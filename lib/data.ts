@@ -36,28 +36,52 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "Amazon Account Manager",
+    location: "Remote (Ontario, Canada)",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2019",
-  },
-  {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
-    description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "I worked as an Amazon Account Manager for a year at Northern Response LTD. I managed their three Amazon stores namely Amazon US, Amazon Canada, and Amazon Mexico. I was also asked to list and work with their Shopify website at times. I mainly focused on providing value to my clients by optimizing all their listings, and consitently auditing for any possible detriments to our listings",
     icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
+    date: "2021-2022",
   },
   {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
+    title: "Premium SEO Content Writer",
+    location: "Remote (South Geelong, Australia)",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "In No-BS Marketplace, most of the work was really laxed and monotonus given that our main job would be to write. I really learned how to be a team player by taking more articles when there's a queue, and consistently coordinating with different departments and people if necessary.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2021-2022",
+  },
+  {
+    title: "Graduated Meta's Coursera Course",
+    location: "Remote",
+    description:
+      "I graduated after several months of studying. I learned about the fundamentals HTML, CSS, JavaScript, React, Next.js, Node.js, Git, and more.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2023",
+  },
+  {
+    title: "Graduated Scrimba Front-End Developmental Roadmap Course",
+    location: "Remote",
+    description:
+      "I solidified my initial learnings and learned more about Advanced React and Typescript",
+    icon: React.createElement(LuGraduationCap),
+    date: "2023",
+  },
+  {
+    title: "Freelance Full-Stack Developer for HLA Careers Philippines",
+    location: "Remote",
+    description:
+      "I was refferred by a old colleague to work on this freelance project. It's a job board web application for a popular Chinese clothing brand. Notable features include a job board, a job application form, a job application tracker, and a job application dashboard.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2023",
+  },
+  {
+    title: "Freelance Full-Stack Developer",
+    location: "Remote",
+    description:
+      "I'm now a full-stack react/next.js developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB/SQL/PostgreSQL. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
-    date: "2021 - present",
+    date: "2023 - present",
   },
 ] as const;
 
