@@ -33,7 +33,7 @@ export default function Intro() {
           >
             <Image
               src={ethan1x1hd}
-              alt="Ricardo portrait"
+              alt="Ethan portrait"
               width="192"
               height="192"
               quality="95"
@@ -73,15 +73,15 @@ export default function Intro() {
       </div>
 
       <motion.h1
-        className="mb-10 mt-6 px-4 text-2xl font-bold text-center sm:text-4xl"
+        className="mb-20 mt-10 px-4 text-2xl font-bold text-center sm:text-4xl"
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <p className="leading-[1.5]">
+        <p className="leading-[1.5] text-center">
           Hey there, I'm <span className="text-5xl ">Ethan</span>, <br /> a
           dedicated full-stack React developer. <br />
         </p>
-        <p className="text-xl leading-1 mt-1">
+        <p className="text-xl leading-1 mt-1 text-justify">
           I've honed my skills through a year of intensive study and hands-on
           freelance work. Crafting user-centric web applications is where I
           thrive, aiming to deliver tangible value through my work.

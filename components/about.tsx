@@ -18,7 +18,7 @@ export default function About() {
       id="about"
     >
       <SectionHeading>About me</SectionHeading>
-      <div className="font-medium">
+      <div className="font-medium text-justify">
         <p className="mb-3">
           Transitioning from roles at Northern Response LTD in Canada and No-BS
           Marketplace in Australia, specializing in SEO and content, I pivoted
