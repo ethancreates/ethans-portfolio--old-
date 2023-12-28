@@ -70,7 +70,7 @@ export const experiencesData = [
     location: "Remote",
     description:
       "I was refferred by a old colleague to work on this freelance project. It's a job board web application for a popular Chinese clothing brand. Notable features include a job board, a job application form, a job application tracker, and a job application dashboard.",
-    icon: React.createElement(LuGraduationCap),
+    icon: React.createElement(FaReact),
     date: "2023",
   },
   {
@@ -121,7 +121,6 @@ export const skillsData = [
   "Zustand",
   "React Query/Tanstack Query",
   "React-Hook-Form",
-  "Express",
   "PostgreSQL",
   "NextAuth",
   "KindeAuth",
