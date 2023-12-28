@@ -84,7 +84,7 @@ export default function Intro() {
         <p className="text-xl leading-1 mt-1 text-justify">
           I've honed my skills through a year of intensive study and hands-on
           freelance work. Crafting user-centric web applications is where I
-          thrive, aiming to deliver tangible value through my work.
+          thrive, as well as aiming to deliver great value through my work.
         </p>
       </motion.h1>
 
