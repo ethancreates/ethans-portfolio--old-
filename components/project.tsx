@@ -36,12 +36,12 @@ export default function Project({
           <h3 className="text-2xl font-semibold">{title}</h3>
           <a
             href="https://hla-careers-ph-main.vercel.app/"
-            className="text-gray-700 dark:text-white/70 hover:text-gray-100"
+            className=" text-sm my-2 text-gray-500 dark:text-white/70 hover:text-gray-900 dark:hover:text-white/30 transition"
             target="_blank"
           >
             View project
           </a>
-          <p className="mt-2 leading-relaxed text-gray-700 dark:text-white/70">
+          <p className="leading-relaxed text-gray-700 dark:text-white/70">
             {description}
           </p>
           <ul className="flex flex-wrap mt-5 gap-2 pt-5 sm:mt-auto">
