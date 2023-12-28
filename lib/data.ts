@@ -37,49 +37,41 @@ export const experiencesData = [
     title: "Amazon Account Manager",
     location: "Remote (Ontario, Canada)",
     description:
-      "I worked as an Amazon Account Manager for a year at Northern Response LTD. I managed their three Amazon stores namely Amazon US, Amazon Canada, and Amazon Mexico. I was also asked to list and work with their Shopify website at times. I mainly focused on providing value to my clients by optimizing all their listings, and consitently auditing for any possible detriments to our listings",
+      "In my role as an Amazon Account Manager at Northern Response LTD in Ontario, I consistently handled significant weekly and monthly ad budgets, often reaching figures in the five- to six-digit range. Through rigorous data analysis and ongoing research, I consistently improved our ad strategies, earning client trust by delivering tangible results. I applied an analytical approach honed through programming, focusing on continual learning and iterative practice. My responsibilities spanned overseeing various Amazon stores in the US, Canada, and Mexico, optimizing Shopify listings, and conducting regular audits to enhance performance.",
     icon: React.createElement(CgWorkAlt),
-    date: "2021-2022",
+    date: "July 2020 - October 2021",
   },
   {
     title: "Premium SEO Content Writer",
     location: "Remote (South Geelong, Australia)",
     description:
-      "In No-BS Marketplace, most of the work was really laxed and monotonus given that our main job would be to write. I really learned how to be a team player by taking more articles when there's a queue, and consistently coordinating with different departments and people if necessary.",
+      "During my tenure at No-BS Marketplace, I actively engaged in advancing SEO practices through ongoing research and the implementation of varied techniques aimed at elevating rankings and augmenting content visibility. Additionally, I fostered a collaborative environment by willingly contributing extra articles during peak demand, orchestrating seamless coordination across departments to facilitate smoother content production. Mirroring my programming ethos, I prioritized continuous learning, hands-on application, and iterative practice, leveraging these principles to enhance skills and consistently achieve outstanding outcomes.",
     icon: React.createElement(CgWorkAlt),
-    date: "2021-2022",
+    date: "October 2021 - December 2022",
   },
   {
-    title: "Graduated Meta's Coursera Course",
-    location: "Remote",
+    title: "Graduated Meta Front-End Developer Professional Certificate",
+    location: "Coursera",
     description:
-      "I graduated after several months of studying. I learned about the fundamentals HTML, CSS, JavaScript, React, Next.js, Node.js, Git, and more.",
+      "I found the experience of obtaining certificates from Coursera and Meta to be highly valuable. The Meta Front-End Developer Professional Certificate enabled me to connect various concepts I had previously studied and worked with, boosting my confidence to initiate personal projects and pursue full-stack positions.",
     icon: React.createElement(LuGraduationCap),
     date: "2023",
   },
   {
-    title: "Graduated Scrimba Front-End Developmental Roadmap Course",
-    location: "Remote",
+    title: "Graduated Scrimba Frontend Developer Career Path Course",
+    location: "Scrimba",
     description:
-      "I solidified my initial learnings and learned more about Advanced React and Typescript",
+      "With over 70 hours of top-notch tutorials, hundreds of coding challenges, and dozens of real-world projects, this career path provided me comprehensive and hands-on training. It solidified my initial learnings and learned more about Advanced React and Typescript",
     icon: React.createElement(LuGraduationCap),
     date: "2023",
   },
   {
-    title: "Freelance Full-Stack Developer for HLA Careers Philippines",
-    location: "Remote",
+    title: "Full-Stack Developer for HLA Careers Philippines",
+    location: "Freelance - Remote",
     description:
-      "I was refferred by a old colleague to work on this freelance project. It's a job board web application for a popular Chinese clothing brand. Notable features include a job board, a job application form, a job application tracker, and a job application dashboard.",
+      "I spearheaded the development of a job board web application tailored for HLA, a leading Chinese clothing brand, with a strong emphasis on user-centric design. This involved incorporating essential features like a job board, application forms, tracker, and dashboard to optimize user experience. Leveraging a robust tech stack comprising React, Next.js, TypeScript, Tailwind, Framer Motion for the front-end, and Prisma with Supabase's postgres for the backend, I ensured a powerful and seamless platform. Additionally, I remained dedicated to continual learning and adaptation, staying abreast of React's evolving landscape by actively engaging with programming newsletters and videos to enhance my skills and stay updated with the latest trends and advancements.",
     icon: React.createElement(FaReact),
-    date: "2023",
-  },
-  {
-    title: "Freelance Full-Stack Developer",
-    location: "Remote",
-    description:
-      "I'm now a full-stack react/next.js developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB/SQL/PostgreSQL. I'm open to full-time opportunities.",
-    icon: React.createElement(FaReact),
-    date: "2023 - present",
+    date: "November 2023 - Present",
   },
 ] as const;
 
