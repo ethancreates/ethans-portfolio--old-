@@ -78,7 +78,7 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <p className="leading-[1.5] text-center">
-          Hey there, I'm <span className="text-5xl ">Ethan</span>, <br /> a
+          Hey there! I'm <span className="text-5xl ">Ethan</span>, <br /> a
           dedicated full-stack React developer. <br />
         </p>
         <p className="text-xl leading-1 mt-1 text-justify">
