@@ -37,7 +37,7 @@ export const experiencesData = [
     title: "Amazon Account Manager",
     location: "Remote (Ontario, Canada)",
     description:
-      "In my role as an Amazon Account Manager at Northern Response LTD in Ontario, I consistently handled significant weekly and monthly ad budgets, often reaching figures in the five- to six-digit range. Through rigorous data analysis and ongoing research, I consistently improved our ad strategies, earning client trust by delivering tangible results. I applied an analytical approach honed through programming, focusing on continual learning and iterative practice. My responsibilities spanned overseeing various Amazon stores in the US, Canada, and Mexico, optimizing Shopify listings, and conducting regular audits to enhance performance.",
+      "In my role as an Amazon Account Manager at Northern Response LTD in Ontario, I consistently handled significant weekly and monthly ad budgets, often reaching figures in the five- to six-digit range. Through rigorous data analysis and ongoing research, I consistently improved our ad strategies, earning client trust by delivering tangible results. I applied an analytical approach honed through programming, focusing on continual learning and iterative practice. My responsibilities spanned overseeing various Amazon stores in the US, Canada, and Mexico, optimizing the UI/UX & SEO of the company's Shopify website, as well as their landing page. I was also tasked to conduct regular audits to enhance sales and rankings.",
     icon: React.createElement(CgWorkAlt),
     date: "July 2020 - October 2021",
   },
@@ -45,7 +45,7 @@ export const experiencesData = [
     title: "Premium SEO Content Writer",
     location: "Remote (South Geelong, Australia)",
     description:
-      "During my tenure at No-BS Marketplace, I actively engaged in advancing SEO practices through ongoing research and the implementation of varied techniques aimed at elevating rankings and augmenting content visibility. Additionally, I fostered a collaborative environment by willingly contributing extra articles during peak demand, orchestrating seamless coordination across departments to facilitate smoother content production. Mirroring my programming ethos, I prioritized continuous learning, hands-on application, and iterative practice, leveraging these principles to enhance skills and consistently achieve outstanding outcomes.",
+      "During my tenure at No-BS Marketplace, I actively engaged in advancing SEO practices through ongoing research and the implementation of varied techniques aimed at elevating rankings and augmenting content visibility. Additionally, I fostered a collaborative environment by willingly contributing extra articles during peak demand, orchestrating seamless coordination across departments to facilitate smoother content production. I was also asked to provide inputs regarding the company's landing page as well as the companies web platform for writers, to further improve the UX. Figma definetly helped me showcase several solutions and accomplish said changes with Tailwind CSS. Mirroring my programming ethos, I prioritized continuous learning, hands-on application, and iterative practice, leveraging these principles to enhance skills and consistently achieve outstanding outcomes.",
     icon: React.createElement(CgWorkAlt),
     date: "October 2021 - December 2022",
   },
