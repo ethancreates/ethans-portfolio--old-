@@ -39,7 +39,7 @@ export const experiencesData = [
     description:
       "In my role as an Amazon Account Manager at Northern Response LTD in Ontario, I consistently handled significant weekly and monthly ad budgets, often reaching figures in the five- to six-digit range. Through rigorous data analysis and ongoing research, I consistently improved our ad strategies, earning client trust by delivering tangible results. I applied an analytical approach honed through programming, focusing on continual learning and iterative practice. My responsibilities spanned overseeing various Amazon stores in the US, Canada, and Mexico, optimizing the UI/UX & SEO of the company's Shopify website, as well as their landing page. I was also tasked to conduct regular audits to enhance sales and rankings.",
     icon: React.createElement(CgWorkAlt),
-    date: "July 2020 - October 2021",
+    date: "2020 - 2022",
   },
   {
     title: "Premium SEO Content Writer",
@@ -47,7 +47,7 @@ export const experiencesData = [
     description:
       "During my tenure at No-BS Marketplace, I actively engaged in advancing SEO practices through ongoing research and the implementation of varied techniques aimed at elevating rankings and augmenting content visibility. Additionally, I fostered a collaborative environment by willingly contributing extra articles during peak demand, orchestrating seamless coordination across departments to facilitate smoother content production. I was also asked to provide inputs regarding the company's landing page as well as the companies web platform for writers, to further improve the UX. Figma definitely helped me showcase several solutions and accomplish said changes with Tailwind CSS. Mirroring my programming ethos, I prioritized continuous learning, hands-on application, and iterative practice, leveraging these principles to enhance skills and consistently achieve outstanding outcomes.",
     icon: React.createElement(CgWorkAlt),
-    date: "October 2021 - December 2022",
+    date: "2022 - 2023",
   },
   {
     title: "Graduated Meta Front-End Developer Professional Certificate",
@@ -71,7 +71,15 @@ export const experiencesData = [
     description:
       "I spearheaded the development of a job board web application tailored for HLA, a leading Chinese clothing brand, with a strong emphasis on user-centric design. This involved incorporating essential features like a job board, application forms, tracker, and dashboard to optimize user experience. Leveraging a robust tech stack comprising React, Next.js, TypeScript, Tailwind, Framer Motion for the front-end, and Prisma with Supabase's postgres for the backend, I ensured a powerful and seamless platform. Additionally, I remained dedicated to continual learning and adaptation, staying abreast of React's evolving landscape by actively engaging with programming newsletters and videos to enhance my skills and stay updated with the latest trends and advancements.",
     icon: React.createElement(FaReact),
-    date: "November 2023 - Present",
+    date: "November 2023 - Pending",
+  },
+  {
+    title: "Full-Stack Developer for LaurenDemiDesign",
+    location: "Remote (Boston, USA)",
+    description:
+      "Currently coding for Lauren, a UX Designer & Researcher based in Boston. She was supposed to have me develop her portfolio through Framer, but decided to let me code it manually instead with Next.js & TypeScript/JS, Tailwind CSS, Framer-Motion, and Resend API for reaching her via e-mail. The project is still in development and will be added in this site soon.",
+    icon: React.createElement(FaReact),
+    date: "February 2024 - Present",
   },
 ] as const;
 
