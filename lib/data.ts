@@ -125,6 +125,9 @@ export const projectsData = [
 export const skillsData = [
   "HTML",
   "CSS",
+  "jQuery",
+  "PHP",
+  "Laravel",
   "JavaScript",
   "TypeScript",
   "React",
@@ -133,6 +136,7 @@ export const skillsData = [
   "Git",
   "Tailwind",
   "Prisma",
+  "lucia-auth",
   "MongoDB",
   "Zustand",
   "React Query/Tanstack Query",
