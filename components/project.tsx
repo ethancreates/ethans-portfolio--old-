@@ -13,6 +13,7 @@ export default function Project({
   description,
   tags,
   imageUrl,
+  projectLink,
 }: ProjectProps) {
   const ref = useRef<HTMLDivElement>(null);
   const { scrollYProgress } = useScroll({
@@ -35,7 +36,7 @@ export default function Project({
         <div className="pt-4 pb-20 px-5 sm:pl-10 sm:pr-2 sm:pt-10 sm:max-w-[50%] flex flex-col h-full sm:group-even:ml-[18rem]">
           <h3 className="text-2xl font-semibold">{title}</h3>
           <a
-            href="https://hla-careersph.vercel.app/"
+            href={projectLink}
             className=" text-sm my-2 text-gray-500 dark:text-white/70 hover:text-gray-900 dark:hover:text-white/30 transition"
             target="_blank"
           >
@@ -61,7 +62,7 @@ export default function Project({
           alt="Project I worked on"
           quality={95}
           className="absolute hidden sm:block top-8 -right-40 w-[28.25rem] rounded-t-lg shadow-2xl
-        transition 
+        transition
         group-hover:scale-[1.04]
         group-hover:-translate-x-3
         group-hover:translate-y-3

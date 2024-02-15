@@ -86,6 +86,22 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "Lauren Demi's UX Design Portfolio",
+    description:
+      "Building an aesthetic and performant UX Design portfolio using Next.js, Tailwind CSS, Framer Motion and Resend API for mailing features. I made sure to check all sections adhere to industry standards in terms of accessibility and performance.",
+    tags: [
+      "React",
+      "Next.js",
+      "Framer Motion",
+      "Shadcn-UI",
+      "ResendAPI",
+      "Vercel",
+      "Github",
+    ],
+    imageUrl: laurensportfolio,
+    projectLink: "https://laurendemi-portfolio.vercel.app/#home",
+  },
+  {
     title: "HLA Careers Philippines",
     description:
       "I'm currently working as a full-stack developer on this freelance project. It's a job board web application for a popular Chinese clothing brand. Notable features include a job board, a job application form, a job application tracker, and a job application dashboard.",
@@ -98,27 +114,11 @@ export const projectsData = [
       "Prisma",
       "Kinde",
       "Vercel",
-      "Github",
-      "Figma",
       "Shadcn-UI",
       "React-Hook-Form",
     ],
     imageUrl: hlacareers,
-  },
-  {
-    title: "Lauren Demi's UX Design Portfolio",
-    description:
-      "Building an aesthetic and performant UX Design portfolio using Next.js, Tailwind CSS, and Framer Motion.",
-    tags: [
-      "React",
-      "Next.js",
-      "Framer Motion",
-      "Shadcn-UI",
-      "ResendAPI",
-      "Vercel",
-      "Github",
-    ],
-    imageUrl: laurensportfolio,
+    projectLink: "https://ph-hla-careers.vercel.app/",
   },
 ] as const;
 
