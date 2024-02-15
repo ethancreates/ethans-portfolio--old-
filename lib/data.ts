@@ -4,6 +4,7 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 
 import hlacareers from "@/public/hla-careers.png";
+import laurensportfolio from "@/public/lauren-portfolio.png";
 
 export const links = [
   {
@@ -103,6 +104,21 @@ export const projectsData = [
       "React-Hook-Form",
     ],
     imageUrl: hlacareers,
+  },
+  {
+    title: "Lauren Demi's UX Design Portfolio",
+    description:
+      "Building an aesthetic and performant UX Design portfolio using Next.js, Tailwind CSS, and Framer Motion.",
+    tags: [
+      "React",
+      "Next.js",
+      "Framer Motion",
+      "Shadcn-UI",
+      "ResendAPI",
+      "Vercel",
+      "Github",
+    ],
+    imageUrl: laurensportfolio,
   },
 ] as const;
 
