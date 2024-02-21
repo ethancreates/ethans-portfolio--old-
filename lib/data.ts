@@ -99,7 +99,7 @@ export const projectsData = [
       "Github",
     ],
     imageUrl: laurensportfolio,
-    projectLink: "https://laurendemi-portfolio.vercel.app/#home",
+    projectLink: "https://laurendemidesign-portfolio.vercel.app/#home",
   },
   {
     title: "HLA Careers Philippines",
